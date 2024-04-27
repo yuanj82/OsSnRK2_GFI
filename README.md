@@ -236,7 +236,7 @@ SOPMA :
 
 ## 顺式作用元件分析
 
-将上游 2000 的 cds 序列上传到 [plantcare 网站](http://bioinformatics.psb.ugent.be/webtools/plantcare/html/)，拿到结果后处理一下数据然后导入 TBtools 就可以进行绘图，可以参考我的博客文章：https://yuanj.top/posts/6c282499/
+将上游 2000 的 cds 序列上传到 [plantcare 网站](http://bioinformatics.psb.ugent.be/webtools/plantcare/html/)，拿到结果后处理一下数据然后导入 TBtools 就可以进行绘图，详细步骤可以参考我的博客文章：https://yuanj.top/posts/6c282499/
 
 ![](images/05459a0381b84ba2be90d218513431cb_MD5.png)
 
@@ -252,4 +252,4 @@ TBtools 热图美化可以参考：https://yuanj.top/posts/p5x7e7k5/
 
 ## 数据可用
 
-本文使用的所有数据均已保存至 GitHub：https://github.com/yuanj82/OsSnRK2_GFI
+本文使用的所有数据均已保存至 GitHub：https://github.com/yuanj82/OsSnRK2-GFI
